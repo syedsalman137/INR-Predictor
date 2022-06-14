@@ -18,4 +18,4 @@ You can either download the source code from this repo and run it on your local 
 
 ## License
 
-This project is licensed under GNU GPL-v3 License. For more details, read the LICENSE file.
+This project is licensed under GNU General Public License v3.0. For more details, read the LICENSE file.
