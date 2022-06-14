@@ -9,6 +9,7 @@ This model is for educational purposes only. The author doesn't claim to predict
 ## Dataset
 
 The dataset in this project is downloaded from source:- https://finance.yahoo.com/quote/INR=X/history/
+
 The dataset contains USD to INR exchange rate history from 01-12-2003 to 26-05-2022
 
 ## Installation
