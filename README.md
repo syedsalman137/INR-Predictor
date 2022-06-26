@@ -19,3 +19,9 @@ You can either download the source code from this repo and run it on your local 
 ## License
 
 This project is licensed under GNU General Public License v3.0. For more details, read the LICENSE file.
+
+## Attribution
+
+The image for this repository is collected from:
+
+<a href='https://www.freepik.com/vectors/indian-money'>Indian money vector created by starline - www.freepik.com</a>
