@@ -20,7 +20,7 @@ You can either download the source code from this repo and run it on your local 
 
 This project is licensed under GNU General Public License v3.0. For more details, read the LICENSE file.
 
-## Attribution
+## References
 
 The image for this repository is collected from:
 
