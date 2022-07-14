@@ -1,6 +1,10 @@
 # INR-Predictor
 
-In this project I use LSTM model to forecast exchange rate of USD($) to INR(₹) by training on available data.
+## Background
+
+INR (Indian National Rupee), is official currency of India. Exchange rate of USD($) to INR(₹) is one of the most important indicator of health of Indian economy. Inflation in the country is many-a-times linked to the rise in the the exchange rate. Forecasting of rupee can give insights of economy to investors and companies.
+
+Although the value of rupee is dependent on market conditions, it also bears a relationship with time. In this project I explore the relationship between exchange rate of INR with time, and forecast rupee value using deep learning LSTM models.
 
 ## Disclaimer
 
