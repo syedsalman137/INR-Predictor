@@ -1,4 +1,5 @@
 # INR-Predictor
+> Copyright (C) 2022 Syed Salman Habeeb Quadri
 
 ## Background
 
