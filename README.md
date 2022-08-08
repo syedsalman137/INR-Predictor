@@ -24,7 +24,7 @@ You can either download the source code from this repo and run it on your local 
 ## License
 
 This project is licensed under GNU General Public License v3.0. For more details, read the [LICENSE](https://github.com/SalmanHabeeb/INR-Predictor/blob/main/LICENSE) 
-and [License Notice.md](https://github.com/SalmanHabeeb/INR-Predictor/blob/main/License%20Notice.md).
+and [Copyright Notice](https://github.com/SalmanHabeeb/INR-Predictor/blob/main/License%20Notice.md).
 
 ## References
 
